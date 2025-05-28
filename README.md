@@ -1,4 +1,4 @@
-# BLACKMAGIC SDI 4K
+# BLACKMAGIC FIBER OPTICAL
 
 One less project you gotta buy from Discord's talented copy-paste artists. Watch out, 99% of them are scams, free GitHub firmware that's been modified. Learn to create your own firmware, don't buy firmware from anybody
 
